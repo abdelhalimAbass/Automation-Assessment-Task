@@ -23,6 +23,7 @@ public class FacebookTest extends BaseTest {
 
         new WebDriverWait(driver, Duration.ofSeconds(10))
                 .until(ExpectedConditions.urlContains("facebook.com"));
+        //CAPTCHA verification is not handled as it is a security feature and not intended to be automated
         // Assert "No more posts"
         Assertions.assertTrue(homePage.isNoMorePostsVisible());
         homePage.logout();
