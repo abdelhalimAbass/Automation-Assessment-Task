@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9db73e06-a4f0-4424-b65e-1bdbd1aba4cf" name="Changes" comment="delete idea files">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium-task .mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook task.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook_automation_task/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook_automation_task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook_automation_task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook_automation_task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-automation-task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-automation-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-automation-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-automation-task/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abdelhalimAbass&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abdelhalimAbass/Automation-Assessment-Task.git&quot;,
+    &quot;accountId&quot;: &quot;8ec9afc8-304d-4396-a397-fd80b9e21043&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3DLapMFrhzwrI234NdXs03pKzGy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.FacebookTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.E2ETest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Masarat/Desktop/my task/Automation-Assessment-Task&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.FacebookTest">
+    <configuration name="FacebookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="facebook_automation_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FacebookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2ETest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-automation-task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="E2ETest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FacebookTest" />
+        <item itemvalue="TestNG.E2ETest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db73e06-a4f0-4424-b65e-1bdbd1aba4cf" name="Changes" comment="" />
+      <created>1778063985505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778063985505</updated>
+    </task>
+    <task id="LOCAL-00001" summary="delete idea files">
+      <option name="closed" value="true" />
+      <created>1778066376807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778066376808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete idea files" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

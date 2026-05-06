@@ -15,8 +15,8 @@ public class BaseTest {
         driver.get("https://www.facebook.com/");
     }
 
-    @AfterEach
-    public void tearDown() {
-        driver.quit();
-    }
+//    @AfterEach
+//    public void tearDown() {
+//        driver.quit();
+//    }
 }
