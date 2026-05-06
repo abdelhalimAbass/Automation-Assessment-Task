@@ -1,4 +1,3 @@
-# Automation-Assessment-Task
 # Automation Assessment Submission
 
 ## Overview
