@@ -20,10 +20,10 @@ Automated test scenario using Appium with Java.
 
 ### Tech Stack
 
-* Java
-* Appium
-* Selenium
-* TestNG
+* Java (JDk-23)
+* Appium (8.6.0)
+* Selenium(4.15.0)
+* TestNG(7.9.0)
 * Maven
 
 ### Features Covered
@@ -36,8 +36,9 @@ Automated test scenario using Appium with Java.
 ### How to Run
 1. Open the project in IntelliJ
 2. Install dependencies using Maven
-3. Connect a real device or start emulator
-4. Run the TestNG test class
+3. run appuim server 
+4. Connect a real device or start emulator
+5. Run the TestNG test class
 ---
 
 ## B. Web Automation Testing
@@ -48,9 +49,9 @@ Another mobile automation scenario implemented separately.
 
 ### Tech Stack
 
-* Java
-* selenuim
-* junit
+* Java (JDK-23)
+* selenium(4.20.0)
+* junit(5.10.2)
 * Maven
 
 ### Features Covered
